@@ -31,12 +31,12 @@ A interface do Google Earth utiliza princípios da Psicologia da Gestalt para ot
 
 ## 3. Imagens / Evidências
 
-### Evidência 1: Mapeamento da Bacia Hidrográfica (LoD Médio/Baixo)
-![Mapeamento da Bacia Hidrográfica do Rio Amazonas](https://tunesambiental.com/wp-content/uploads/amazon-5.png)  
-*Figura 1: Mosaico regional exibindo a delimitação da bacia hidrográfica, a rede de drenagem e a calha principal do rio.*
+### Evidência 1: Mapeamento Regional de Bacia Hidrográfica (LoD Médio/Baixo)
+![Imagem de Satélite da Bacia do Rio Amazonas](https://upload.wikimedia.org/wikipedia/commons/ thumb/7/72/Satellite_picture_of_the_Amazon_River.jpg/1000px-Satellite_picture_of_the_Amazon_River.jpg)  
+*Figura 1: Mosaico de satélite exibindo a delimitação da bacia hidrográfica, o encontro de águas dos rios e a calha principal.*
 
 ---
 
-### Evidência 2: Detalhamento do Leito Fluvial e Meandros (LoD Alto)
-![Vista de Satélite do Rio Paraná e Leito Fluvial](https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1074866088236681&get_thumbnail=1)  
-*Figura 2: Aproximação em alta resolução mostrando os meandros, a vegetação ciliar e a dinâmica de fluxo no leito do rio.*
+### Evidência 2: Detalhamento de Meandros e Leito Fluvial (LoD Alto)
+![Vista Aérea em Alta Resolução de Meandros de Rio](https://upload.wikimedia.org/wikipedia/commons/ thumb/a/a2/Meandering_river_%288029733984%29.jpg/1280px-Meandering_river_%288029733984%29.jpg)  
+*Figura 2: Aproximação de alta resolução mostrando os meandros finos, a vegetação ciliar e a dinâmica de erosão/deposição no leito do rio.*
