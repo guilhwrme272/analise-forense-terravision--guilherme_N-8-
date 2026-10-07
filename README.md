@@ -53,34 +53,4 @@ A renderização de corpos d'água interiores (rios, lagos e represas) em sistem
 
 ---
 
-## 2. Design de Interface e Leis da Gestalt
 
-A interface do Google Earth utiliza princípios da Psicologia da Gestalt para otimizar o fluxo de navegação e direcionar o foco visual durante a exploração de redes hidrográficas:
-
-1. **Lei da Continuidade:**
-   * **Aplicação na UI:** Os rios e redes de drenagem são percebidos pelo sistema visual como linhas fluídas e ininterruptas que cortam o mapa. Mesmo quando um rio passa sob pontes, por áreas de mata densa ou se ramifica em deltas, o cérebro preserva a percepção da trajetória linear contínua.
-   * **Orientação ao Usuário:** Facilita o acompanhamento intuitivo do curso d'água com o cursor (operações de *pan/zoom*), permitindo navegar sem interrupção do leito principal até a nascente ou foz.
-
-2. **Lei da Figura-Fundo:**
-   * **Aplicação na UI:** A interface estabelece um forte contraste cromático entre o tom azul/escuro da água (*figura*) e a paleta de cores do terreno ao redor (*fundo* — tons verdes da vegetação, marrons do solo e cinzas urbanos).
-   * **Orientação ao Usuário:** Permite a identificação imediata de represas, lagos e grandes rios ao aproximar o zoom, guiando o olhar diretamente para os detalhes do tema de estudo sem distração pela textura das áreas terrestres.
-
----
-
-## 3. Imagens / Evidências
-
-### Evidência 1: Mapeamento Regional de Bacia Hidrográfica (LoD Médio/Baixo)
-![Mapeamento Regional da Bacia do Rio Amazonas](https://upload.wikimedia.org/wikipedia/commons/7/72/Satellite_picture_of_the_Amazon_River.jpg)  
-*Figura 1: Mosaico de satélite exibindo a delimitação da bacia hidrográfica, o encontro de águas dos rios e a calha principal.*
-
----
-
-### Evidência 2: Detalhamento de Meandros e Leito Fluvial (LoD Alto)
-![Detalhamento do Leito Fluvial do Rio Solimões](https://upload.wikimedia.org/wikipedia/commons/2/2a/Rio_Solimoes_Amazon_river.jpg)  
-*Figura 2: Aproximação em alta resolução mostrando meandros ativos, braços abandonados e a vegetação ciliar da Bacia Amazônica.*
-
----
-
-### Evidência 2: Detalhamento de Meandros e Leito Fluvial (LoD Alto)
-![Detalhamento do Leito Fluvial do Rio Solimões] 
-*Figura 2: Aproximação em alta resolução mostrando meandros ativos, braços abandonados (oxbow lake) e a vegetação ciliar da Bacia Amazônica.*
