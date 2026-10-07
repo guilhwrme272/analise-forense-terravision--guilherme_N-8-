@@ -36,10 +36,6 @@ A interface do Google Earth utiliza princípios da Psicologia da Gestalt para ot
 
 ## 3. Imagens / Evidências <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/298999db-70b5-4825-8422-f3a51e0d8632" />
 
-# ETAPA 2: COMPUTAÇÃO GRÁFICA & UX/UI
 
-**Aluno:** Guilherme Pimentel Nogueira dos Santos  
-**Tema 8:** Bacias Hidrográficas, Rios e Corpos d'Água Interiores  
 
----
 
