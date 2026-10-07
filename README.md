@@ -28,9 +28,22 @@ A interface do Google Earth utiliza princípios visuais clássicos da Psicologia
    * **Navegação UI:** Esse contraste imediato permite que o usuário identifique instantaneamente grandes massas hídricas ou rios delgados ao aproximar o zoom, concentrando a atenção nos detalhes do curso fluvial sem se perder nas texturas do terreno circundante.
 
 ---
+## 3. Imagens / Evidências
+
+| Visão Regional (LoD Médio) | Detalhamento Fluvial (LoD Alto) |
+| :---: | :---: |
+| ![Bacia Hidrográfica](./evidencia1.png) | ![Leito Fluvial](./evidencia2.png) |
+| *Figura 1: Mosaico regional da bacia.* | *Figura 2: Detalhes finos do curso d'água.* |
+
 
 ## 3. Imagens / Evidências
 
-![Mapeamento de Bacia Hidrográfica no Google Earth](https://via.placeholder.com/800x450.png?text=Inserir+Captura+de+Tela+do+Google+Earth+Aqui)
+### Evidência 1: Visão Geral de Bacia Hidrográfica (LoD Médio)
+![Mapeamento de Bacia Hidrográfica no Google Earth](./evidencia1.png)
+*Figura 1: Visualização regional da rede de drenagem e calha principal do rio.*
 
-> **Instruções para o aluno:** Tire uma captura de tela (print screen) do Google Earth focada em uma bacia hidrográfica ou grande rio (ex.: Rio Amazonas, Rio Paraná ou Rio São Francisco), salve a imagem na pasta do seu projeto (ex.: `evidencia.png`) e substitua o link acima por `./evidencia.png`.
+---
+
+### Evidência 2: Detalhamento do Leito e Margens (LoD Alto)
+![Detalhes do Leito Fluvial no Google Earth](./evidencia2.png)
+*Figura 2: Aproximação mostrando meandros finos, vegetação ciliar e reflexo da água.*
