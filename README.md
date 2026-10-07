@@ -43,14 +43,3 @@ A interface do Google Earth utiliza princípios da Psicologia da Gestalt para ot
 
 ---
 
-## 1. Processamento e Tratamento de Imagem
-
-A renderização de corpos d'água interiores (rios, lagos e represas) em sistemas de informação geográfica e fotogrametria de satélite apresenta desafios técnicos específicos para os algoritmos de *stitching* (costura de imagens), ajuste de textura e balanceamento de cores:
-
-* **Reflexo da Luz na Água (*Sun Glint* / Especularidade):** O ângulo de incidência da luz solar varia conforme a hora da captura por diferentes sensores geostacionários ou orbitais. Isso causa manchas brancas e brilhantes de reflexo em algumas fotos e tom escuro em outras. O algoritmo precisa aplicar correções de iluminação e filtros de polarização digital para harmonizar a refletância da água e evitar linhas de corte ("costuras") artificiais no meio do leito fluvial.
-* **Variação Dinâmica de Cor e Turbidez:** A tonalidade da água muda drasticamente de acordo com a profundidade, quantidade de sedimentos em suspensão, estação do ano (períodos de seca ou cheia) e proliferação de algas. A união de imagens tiradas em datas diferentes exige equalização de histograma e alinhamento radiométrico contínuo para evitar rupturas visuais na continuidade dos rios.
-* **Geometria e Dinâmica de Margens (Modelo Digital de Elevação - DEM):** Ao contrário do relevo urbano ou rochoso, o nível da água e o contorno das margens flutuam. O algoritmo de *mesh warping* precisa ajustar com precisão os dados de altitude para evitar que corpos d'água pareçam "subir" morros ou distorcer a linha de costa/vegetação ciliar.
-
----
-
-
