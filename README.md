@@ -38,5 +38,5 @@ A interface do Google Earth utiliza princípios da Psicologia da Gestalt para ot
 ---
 
 ### Evidência 2: Detalhamento de Meandros e Leito Fluvial (LoD Alto)
-![Vista Aérea em Alta Resolução de Meandros de Rio](https://upload.wikimedia.org/wikipedia/commons/a/a2/Meandering_river_%288029733984%29.jpg)  
-*Figura 2: Aproximação de alta resolução mostrando os meandros finos, a vegetação ciliar e a dinâmica de erosão/deposição no leito do rio.*
+![Detalhamento do Leito Fluvial do Rio Solimões](https://upload.wikimedia.org/wikipedia/commons/2/2a/Rio_Solimoes_Amazon_river.jpg)  
+*Figura 2: Aproximação em alta resolução mostrando meandros ativos, braços abandonados (oxbow lake) e a vegetação ciliar da Bacia Amazônica.*
